@@ -2,36 +2,33 @@
     "events": [
         {
             "id": 5928101,
-            "category": "animal welfare",
-            "title": "Cat Adoption Day",
-            "description": "Find your new feline friend at this event.",
-            "location": "Meow Town",
-            "date": "January 28, 2022",
+            "category": "Cuidado animal",
+            "title": "Día de adopción de gatos",
+            "description": "Encuentra a tu amigo felino en este evento.",
+            "location": "Barrios unidos",
+            "date": "Julio 28, 2022",
             "time": "12:00",
-            "petsAllowed": true,
-            "organizer": "Kat Laydee"
+            "petsAllowed": true
         },
         {
             "id": 4582797,
-            "category": "food",
-            "title": "Community Gardening",
-            "description": "Join us as we tend to the community edible plants.",
-            "location": "Flora City",
-            "date": "March 14, 2022",
+            "category": "Comida",
+            "title": "Jardinería comunitaria",
+            "description": "Compartir de conocimientos en permacultura.",
+            "location": "Polo",
+            "date": "Noviembre 14, 2022",
             "time": "10:00",
-            "petsAllowed": true,
-            "organizer": "Fern Pollin"
+            "petsAllowed": true
         },
         {
             "id": 8419988,
-            "category": "sustainability",
-            "title": "Beach Cleanup",
-            "description": "Help pick up trash along the shore.",
-            "location": "Playa Del Carmen",
-            "date": "July 22, 2022",
+            "category": "Cuidado MedioAmbiental",
+            "title": "Limpieza comunitaria",
+            "description": "Ayudanos a recoger basura y limpiar nuestro parque.",
+            "location": "Parque el Virrey",
+            "date": "Agosto 22, 2022",
             "time": "11:00",
-            "petsAllowed": false,
-            "organizer": "Carey Wales"
+            "petsAllowed": false
         }
     ]
 }
